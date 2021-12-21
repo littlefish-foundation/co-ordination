@@ -22,7 +22,7 @@
 9. Nori Nishigaya
 
 ## Meeting Notes
-![Assesment Results](assesment_results.png)
+![Assesment Results](meet1b.png)
 
 Catalyst CA voting results were discussed. We decided to flag this assessment: z_assessor_499. The assessment can be found here: https://cardanocataly.st/proposal-review-tool/#/assessments/2892 (link provided by Yoram). Assessments can be flagged through this form: https://docs.google.com/forms/d/e/1FAIpQLSc0u8LTzDPRdIQ8iDtys7SVsMhOPuDbMEc1HT6Y3Mtwq5CDsA/viewform
 
