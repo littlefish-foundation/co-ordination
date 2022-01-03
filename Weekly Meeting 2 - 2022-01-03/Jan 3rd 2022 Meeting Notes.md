@@ -73,54 +73,77 @@ Finish flier by tomorrow to promote the first donation process
 
 22:10:52 From Ryan Vukich To Everyone:
     same thing covid just ran through us too last week!  me and 3 of the boys.
+    
 22:11:43 From Çağkan Acarbay To Everyone:
     https://en.wikipedia.org/wiki/Dengue_fever
+    
 22:15:00 From Dimitri Fernando To Everyone:
     you can google papaya leaf dengue cure
+    
 22:16:57 From Çağkan Acarbay To Everyone:
     https://discord.gg/uFedJdGPKb
+    
 22:23:00 From Ryan Vukich To Everyone:
     https://m.ufhealth.org/news/2021/two-common-compounds-show-effectiveness-against-covid-19-virus-early-testing
+    
 22:23:33 From Bryan Lesiuk To Everyone:
     Hi everyone
+    
 22:24:22 From Cem Karaca To Everyone:
     Welcome Bryan
+    
 22:24:46 From Ryan Vukich To Everyone:
     STOIC Poolhttps://www.youtube.com/watch?v=Nto7Qk142hc
+    
 22:30:35 From Melanie -Cardano4Climate To Everyone:
     can we have the link in the chat?
+    
 22:30:44 From Çağkan Acarbay To Everyone:
     https://docs.google.com/document/d/1ymCT366Kq5hRVvV6sXkMpNt5aifIc6QBH74IuOdqHbg/edit?usp=sharing
+
 22:32:28 From Dimitri Fernando To Everyone:
     I just submtted my one.
+    
 22:36:25 From Dimitri Fernando To Everyone:
     Start the process of pet food production using a vehicle to pickup the Waste from Slaughterhouse on a regular basis and cook it and make Petfood. I would use this to purchase cookers and put a cover on a vehicle in order  to cook the Petfood on a regular basis, convert it into Petfood and either sell it to make the operation sustainable or if sustained by donations would donate part of it to animal shelters who depend on donations to feed the stray dogs. This would reduce Animal Waste Garbage from this slaughterhouse significantly, Reduce spread of disease from this waste being in the garbage dump, reduce CO2 emission from this waste, and also feed animals at the same time, who otherwise would starve.
     
-    1000 ADA will be used to put purchase cookers in order to do the cooking of the Slaughter waste ( Chicken parts which are otherwise discarded)  . Additional Funds from IDeascale would be used to put a Canopy on a vehicle which is currently transporting this waste . This would require about 10,000 ADA to do .The
+1000 ADA will be used to put purchase cookers in order to do the cooking of the Slaughter waste ( Chicken parts which are otherwise discarded)  . Additional Funds from IDeascale would be used to put a Canopy on a vehicle which is currently transporting this waste . This would require about 10,000 ADA to do .The
+    
 22:43:08 From Ryan Vukich To Everyone:
     This is the better link to the staking DAO  https://stakingdao.ai/
+    
 23:08:21 From yorambenzvi To Everyone:
     https://www.regen.network/
+    
 23:14:18 From yorambenzvi To Everyone:
     https://investinginregenerativeagriculture.com/2017/07/05/gregory-landua/
+    
 23:15:47 From Cem Karaca To Everyone:
     Dripdropz.io
+    
 23:18:05 From Dimitri Fernando To Everyone:
     https://web.facebook.com/Five-Loaves-Two-Fish-Feed-The-Hungry-101482975759301
+    
 23:18:14 From Ryan Vukich To Everyone:
     This group is offering real estate tokens for real projects, and returns 11+%.  Some have 30% over the past couple of years.   https://solidblock.net/  Similar we set the returns for funding projects and aren't bound by the mechanism to generate returns on the endowment.
+    
 23:21:19 From Cem Karaca To Everyone:
     Cardano-native-token.com
+    
 23:28:19 From Cem Karaca To Everyone:
     https://pool.pm/d0440310f7facfa43dac76364a5ac266d5e180ac164080564c0ac646.fish
+    
 23:44:09 From Nori Nishigaya To Everyone:
     Littlefish wallet: https://pool.pm/addr1q8vc0lzkad740dz0nw7e596sl5mxfx23f96plf5jp3lcdd8x9g32750vf63a6qv085fecl5kf33vveyrvxzw3yg8577sgldtak
+    
 23:44:44 From Nori Nishigaya To Everyone:
     handle.me/littlefish will make donations easier.
+    
 23:45:02 From Nori Nishigaya To Everyone:
     https://handle.me/littlefish
+    
 23:51:18 From Cem Karaca To Everyone:
     https://pool.pm/d0440310f7facfa43dac76364a5ac266d5e180ac164080564c0ac646.fish
+    
 23:51:33 From Cem Karaca To Everyone:
     https://github.com/littlefish-foundation/co-ordination
-
