@@ -8,6 +8,19 @@ This document is a brief overview of the meeting. See the full meeting on Youtub
  2. Activity proposals and first donation cycle. 
  3. Free discussion
 
+
+## Attendees
+- Cem Karaca
+- Yoram Ben Zvi
+- Dimitri Fernando
+- Seomon B.
+- Melanie Russo
+- Nori Nishigaya
+- Ryan Vukich
+- Bryan Lesiuk
+- Özgür Yaşar Akyar
+- Çağkan Acarbay
+
 ## Meeting Notes
 We start by catching up after the holidays. Everyone’s getting COVID these days :(
 
