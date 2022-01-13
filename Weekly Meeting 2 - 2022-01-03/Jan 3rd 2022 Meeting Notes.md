@@ -1,6 +1,6 @@
 # Littlefish Foundation Meeting
 
-This document is a brief overview of the meeting. See the full meeting on Youtube. (Link will be added) 
+This document is a brief overview of the meeting. See the full meeting on Youtube. https://www.youtube.com/watch?v=2WQgA9ZnFj0
 
 ## Agenda
 
