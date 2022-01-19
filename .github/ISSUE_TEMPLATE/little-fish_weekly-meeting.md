@@ -3,7 +3,7 @@ name: Little-Fish_meeting
 about: Create an Little-Fish_meeting Issue record.
 title: Little-Fish_Meeting - [Date]
 labels: meetings
-assignees: 'ckaraca', 'cagkanacarbay'
+assignees:
 
 ---
 
