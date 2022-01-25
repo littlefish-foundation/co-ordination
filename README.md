@@ -13,3 +13,7 @@ And more tools specifically fit for SDG activism purposes:
 - Fast decision making systems to rapidly respond to global crises like wildfires, earthquakes, etc.,
 
 - Validation systems for establishing trust between activists on the ground and fund providers.
+
+
+>> Meeting notes will now be held as issues. 
+>> Meeting 5 - 24/01/2022 - https://github.com/littlefish-foundation/co-ordination/issues/7
