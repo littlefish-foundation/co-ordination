@@ -15,5 +15,5 @@ And more tools specifically fit for SDG activism purposes:
 - Validation systems for establishing trust between activists on the ground and fund providers.
 
 
->> Meeting notes will now be held as issues. 
->> Meeting 5 - 24/01/2022 - https://github.com/littlefish-foundation/co-ordination/issues/7
+> Meeting notes will now be held as issues. 
+> Meeting 5 - 24/01/2022 - https://github.com/littlefish-foundation/co-ordination/issues/7
