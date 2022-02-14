@@ -20,3 +20,6 @@ And more tools specifically fit for SDG activism purposes:
 > Meeting 5 - 24/01/2022 - https://github.com/littlefish-foundation/co-ordination/issues/7
 > 
 > Meeting 6 - 31/01/2022 - https://github.com/littlefish-foundation/co-ordination/issues/8
+> 
+> Meeting 7 - 7/02/2022 - https://github.com/littlefish-foundation/co-ordination/issues/9
+> 
